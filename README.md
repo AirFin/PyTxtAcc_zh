@@ -2,7 +2,8 @@
 
 # 0 简介
 
-《Using Python For Text Analysis In Accounting Research》是一本介绍在会计研究中使用Python进行文本分析的专著。在学校过程中，我发现python文本分析相关中文资料有很多，但是python文本分析在会计研究中的应用的相关中文资料少之又少。我在阅读本书后，发现本书很好地构建了一个框架，非常进行适合入门学习。遂对本书进行翻译，不当之处，敬请谅解。
+《Using Python For Text Analysis In Accounting Research》是一本介绍在会计研究中使用Python进行文本分析的专著。
+在学习过程中，我发现python文本分析相关中文资料有很多，但是在经管研究中的应用的相关中文资料少之又少。我在阅读本书后，发现本书很好地构建了一个框架，非常进行适合入门学习。遂对本书进行翻译，不当之处，敬请谅解。
 
 
 
