@@ -19,7 +19,7 @@
 
 # 2 资料
 
-1. 在线阅读：https://www.notion.so/weak/README-2a5260b7433241dfb4eaa6e6f70ca13a
+1. ==在线阅读==：https://www.notion.so/weak/README-2a5260b7433241dfb4eaa6e6f70ca13a
 2. GitHub：https://github.com/SharkFin-top/PyTxtAcc_zh
 3. 更多内容：https://sharkfin-top.vercel.app/
 
